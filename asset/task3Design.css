@@ -1,0 +1,21 @@
+.main h1{
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-size: 70px;
+    margin-top: 10px;
+    rotate:-21deg;
+  
+}
+.main p:nth-child(5){
+    font-family: 'Amatic SC', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Hurricane', cursive;
+    font-family: 'Kalam', cursive;
+}
+.main{
+    padding: 100px;
+    text-align: center;
+    background-color: wheat;
+    display: inline-block;
+    margin-left: 360px;
+}
